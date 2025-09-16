@@ -8,9 +8,11 @@ Passos para rodar o código no visual studio code:
 
 #OBS: O projeto já vem com um arquivo chamado dados.txt no mesmo diretório do código. Se quiser usar outro arquivo de entrada, ele também deve estar no mesmo diretório onde está o arquivo .py.
 
-#Exemplo de Estrutura:
+# Exemplo de Estrutura:
 
+```
 projeto/
 ├── main.py
 ├── dados.txt
 └── outro_arquivo.txt
+```
